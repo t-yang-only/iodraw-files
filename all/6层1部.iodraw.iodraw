@@ -1,95 +1,95 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="流程图-6层电梯完整控制" id="U8RYI96B9a8MdMhP2OQj">
-    <mxGraphModel dx="9491" dy="6668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4529" dy="3161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-2" value="系统初始化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-2" value="系统初始化" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-3" value="输入信号采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-3" value="输入信号采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-4" value="外呼按钮：1~5上呼、2~6下呼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-4" value="外呼按钮：1~5上呼、2~6下呼" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="260" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-5" value="轿内选层：1~6楼按钮" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-5" value="轿内选层：1~6楼按钮" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="300" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-6" value="门信号：光幕、超重、门锁" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-6" value="门信号：光幕、超重、门锁" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="340" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-7" value="平层、限位、检修、自动运行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-7" value="平层、限位、检修、自动运行" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="380" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-8" value="呼叫登记 &amp; 自锁保持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-8" value="呼叫登记 &amp; 自锁保持" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-9" value="上呼自锁：1~5楼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-9" value="上呼自锁：1~5楼" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="260" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-10" value="下呼自锁：2~6楼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-10" value="下呼自锁：2~6楼" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-11" value="轿内自锁：1~6楼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-11" value="轿内自锁：1~6楼" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="340" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-12" value="输出呼梯指示灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-12" value="输出呼梯指示灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-13" value="安全条件检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-13" value="安全条件检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-14" value="门锁+光幕+超重+检修+自动运行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-14" value="门锁+光幕+超重+检修+自动运行" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="260" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-15" value="灭无效灯逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-15" value="灭无效灯逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-16" value="上行→熄灭下方反方向灯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-16" value="上行→熄灭下方反方向灯" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="530" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-17" value="下行→熄灭上方反方向灯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-17" value="下行→熄灭上方反方向灯" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="570" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-18" value="仅保留目标层灯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-18" value="仅保留目标层灯" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="610" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-19" value="所有无效灯已关闭？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-19" value="所有无效灯已关闭？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="450" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-20" value="允许发车→准备就绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-20" value="允许发车→准备就绪" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-21" value="确定方向：上行/下行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-21" value="确定方向：上行/下行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-22" value="电机启动→上行/下行接触器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-22" value="电机启动→上行/下行接触器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="650" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-23" value="减速→平层→停车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-23" value="减速→平层→停车" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="750" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-24" value="开门→延时→关门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-24" value="开门→延时→关门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="750" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-25" value="到达→清除自锁→灭灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-25" value="到达→清除自锁→灭灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="750" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-26" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-2" target="_7TzznXWmzWnlXXb-wUq-3" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-27" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-3" target="_7TzznXWmzWnlXXb-wUq-8" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-28" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-8" target="_7TzznXWmzWnlXXb-wUq-12" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-29" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-12" target="_7TzznXWmzWnlXXb-wUq-13" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-30" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-13" target="_7TzznXWmzWnlXXb-wUq-15" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-31" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-15" target="_7TzznXWmzWnlXXb-wUq-19" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-32" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-19" target="_7TzznXWmzWnlXXb-wUq-20" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-33" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-20" target="_7TzznXWmzWnlXXb-wUq-21" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-34" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-21" target="_7TzznXWmzWnlXXb-wUq-22" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-35" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-22" target="_7TzznXWmzWnlXXb-wUq-23" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-36" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-23" target="_7TzznXWmzWnlXXb-wUq-24" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-37" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-24" target="_7TzznXWmzWnlXXb-wUq-25" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-38" style="endArrow=block;html=1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-25" target="_7TzznXWmzWnlXXb-wUq-3" />
-        <mxCell id="_7TzznXWmzWnlXXb-wUq-39" style="endArrow=block;html=1;dashPattern=1 1;" edge="1" parent="1" source="_7TzznXWmzWnlXXb-wUq-19" target="_7TzznXWmzWnlXXb-wUq-15" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-26" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-2" target="_7TzznXWmzWnlXXb-wUq-3" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-27" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-3" target="_7TzznXWmzWnlXXb-wUq-8" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-28" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-8" target="_7TzznXWmzWnlXXb-wUq-12" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-29" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-12" target="_7TzznXWmzWnlXXb-wUq-13" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-30" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-13" target="_7TzznXWmzWnlXXb-wUq-15" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-31" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-15" target="_7TzznXWmzWnlXXb-wUq-19" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-32" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-19" target="_7TzznXWmzWnlXXb-wUq-20" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-33" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-20" target="_7TzznXWmzWnlXXb-wUq-21" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-34" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-21" target="_7TzznXWmzWnlXXb-wUq-22" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-35" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-22" target="_7TzznXWmzWnlXXb-wUq-23" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-36" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-23" target="_7TzznXWmzWnlXXb-wUq-24" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-37" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-24" target="_7TzznXWmzWnlXXb-wUq-25" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-38" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-25" target="_7TzznXWmzWnlXXb-wUq-3" edge="1" />
+        <mxCell id="_7TzznXWmzWnlXXb-wUq-39" style="endArrow=block;html=1;dashPattern=1 1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-19" target="_7TzznXWmzWnlXXb-wUq-15" edge="1" />
       </root>
     </mxGraphModel>
   </diagram>
