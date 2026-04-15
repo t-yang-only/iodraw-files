@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="流程图-6层电梯完整控制" id="U8RYI96B9a8MdMhP2OQj">
-    <mxGraphModel dx="302087" dy="250826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="305395" dy="253164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
         <mxCell id="LsJm0nxsrErc_Bc8baJV-15" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-7020" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-17" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-17" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;一&lt;/font&gt;&lt;span style=&quot;font-size: 50px; background-color: initial;&quot;&gt;楼&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-540" y="-2170" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
