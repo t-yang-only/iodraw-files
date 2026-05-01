@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="流程图-6层电梯完整控制" id="U8RYI96B9a8MdMhP2OQj">
-    <mxGraphModel dx="305395" dy="253164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10156" dy="13519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,34 +90,34 @@
         <mxCell id="_7TzznXWmzWnlXXb-wUq-37" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-24" target="_7TzznXWmzWnlXXb-wUq-25" edge="1" />
         <mxCell id="_7TzznXWmzWnlXXb-wUq-38" style="endArrow=block;html=1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-25" target="_7TzznXWmzWnlXXb-wUq-3" edge="1" />
         <mxCell id="_7TzznXWmzWnlXXb-wUq-39" style="endArrow=block;html=1;dashPattern=1 1;" parent="1" source="_7TzznXWmzWnlXXb-wUq-19" target="_7TzznXWmzWnlXXb-wUq-15" edge="1" />
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1670" y="-8040" width="790" height="6870" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="-1930" width="630" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-890" y="-2500" as="sourcePoint" />
             <mxPoint y="-2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="-3060" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-10" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-10" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="-4410" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-11" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-11" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-5760" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-12" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-12" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="-7980" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-15" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-15" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;二楼&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-7020" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LsJm0nxsrErc_Bc8baJV-17" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;一&lt;/font&gt;&lt;span style=&quot;font-size: 50px; background-color: initial;&quot;&gt;楼&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="LsJm0nxsrErc_Bc8baJV-17" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;一&lt;/font&gt;&lt;span style=&quot;font-size: 50px; background-color: initial;&quot;&gt;楼&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="-2170" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
